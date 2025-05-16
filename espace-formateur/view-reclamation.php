@@ -129,13 +129,19 @@ $QueryGetReplies = mysqli_query($connect, "SELECT * FROM problemes_replies WHERE
                                                     </div>
                                                 </div>
                                             </div>';
-                                            }else{
+                                            }else if(isset($reply['sender_id'])){
                                                 $senderID = $reply['sender_id'];
                                                 $QueryGetFormateur = mysqli_query($connect, "SELECT * FROM stagiaires WHERE matricule='$senderID'");
-                                                $formateur = mysqli_fetch_assoc($QueryGetFormateur);
-                                                $sender_name = $formateur['prenom'] . " " . $formateur['nom'];
+                                                if($formateur = mysqli_fetch_assoc($QueryGetFormateur)){
+                                                    $sender_name = $formateur['prenom'] . " " . $formateur['nom'];
+                                                }
 												$class_color = "danger";
                                                 $can_delete = "";
+                                            }else{
+                                                    // En cas d'erreur, éviter un crash
+                                                    $sender_name = "Non défini";
+                                                    $class_color = "secondary";
+                                                    $can_delete = "";
                                             }
 
                                             echo '<div class="mb-9">
