@@ -68,12 +68,13 @@ $QueryGetReplies = mysqli_query($connect, "SELECT * FROM problemes_replies WHERE
                                             {
                                                 $sender_name = $user->getPrenom() . " " . $user->getNom();
 												$class_color = "success";
-                                            }else{
+                                            }else if(isset($reply['sender_id'])){
                                                 $senderID = $reply['sender_id'];
                                                 $QueryGetFormateur = mysqli_query($connect, "SELECT * FROM formateurs WHERE matricule='$senderID'");
-                                                $formateur = mysqli_fetch_assoc($QueryGetFormateur);
-                                                $sender_name = $formateur['prenom'] . " " . $formateur['nom'];
-												$class_color = "danger";
+                                                if($formateur = mysqli_fetch_assoc($QueryGetFormateur)){
+                                                    $sender_name = $formateur['prenom'] . " " . $formateur['nom'];
+                                                }
+						$class_color = "danger";
                                             }
 
                                             echo '<div class="mb-9">
