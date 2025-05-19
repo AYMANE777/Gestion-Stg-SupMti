@@ -138,7 +138,7 @@
 								<!--begin::Description-->
 								<div class="fw-bold fs-6 fs-lg-4 text-gray-700">Avec notre application, 
 								<br />il sera facile de comprendre les nouveautés
-								<br />d'ISTA</div>
+								<br />de Supmti</div>
 								<!--end::Description-->
 							</div>
 							<!--end::Story-->
