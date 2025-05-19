@@ -38,7 +38,7 @@ if(LoggedIn() == 1)
 								<img alt="Logo" src="assets/media/supmti-logo.png" class="h-150px" />
 							</a>
 							<h1 class="fw-bolder text-white fs-2qx pb-5 pb-md-10">PARRAINAGE DES STAGIAIRES</h1>
-							<p class="fw-bold fs-2 text-white">L'Office de la formation professionnelle et de promotion du travail</p>
+							<p class="fw-bold fs-2 text-white">L'École Supérieure de Management, Télécommunication et Informatique</p>
 						</div>
 						<div class="d-flex flex-row-auto bgi-no-repeat bgi-position-x-center bgi-size-contain bgi-position-y-bottom min-h-80px min-h-lg-350px" style="background-image: url(assets/media/illustrations/support.svg)"></div>
 					</div>
