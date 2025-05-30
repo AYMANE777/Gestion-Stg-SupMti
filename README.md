@@ -23,3 +23,34 @@
     <li class="my-0">👤 <strong>Profile Management:</strong> Empowers users to manage their personal information securely, ensuring data integrity.</li>
     <li class="my-0">📈 <strong>Dynamic Content Display:</strong> Retrieves and presents real-time data, improving user interaction and experience.</li>
     </ul>
+<hr>
+<h2>Getting Started</h2>
+<h3>Prerequisites</h3>
+<p>This project requires the following dependencies:</p>
+<ul class="list-disc pl-4 my-0">
+<li class="my-0"><strong>Programming Language:</strong> PHP</li>
+<li class="my-0"><strong>Package Manager:</strong> Composer</li>
+</ul>
+<h3>Installation</h3>
+<p>Build Gestion-Stg-SupMti from the source and intsall dependencies:</p>
+<pre><code class="language-sh">❯ git clone https://github.com/AYMANE777/Gestion-Stg-SupMti
+</code></pre>
+<p><strong>Navigate to the project directory:</strong></p>
+<pre><code class="language-sh">❯ cd Gestion-Stg-SupMti
+</code></pre>
+<li class="my-0">
+<p><strong>Install the dependencies:</strong></p>
+</li>
+<p><strong>Using <a href="https://www.php.net/">composer</a>:</strong></p>
+<pre><code class="language-sh">❯ composer install
+</code></pre>
+<h3>Usage</h3>
+<p>Run the project with:</p>
+<p><strong>Using <a href="https://www.php.net/">composer</a>:</strong></p>
+<pre><code class="language-sh">php {entrypoint}
+</code></pre>
+<h3>Testing</h3>
+<p>Gestion-stg-supmti uses the {<strong>test_framework</strong>} test framework. Run the test suite with:</p>
+<p><strong>Using <a href="https://www.php.net/">composer</a>:</strong></p>
+<pre><code class="language-sh">vendor/bin/phpunit
+</code></pre>
