@@ -1,16 +1,25 @@
-<h1>Hi 👋, I'm BRIOUEL AYMANE</h1>
-<p>A passionate frontend developer from </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="">Gestion-Stg-SupMti is a comprehensive developer tool designed to streamline user management and enhance communication within educational and training environments.</a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/aymane-briouel-582540224/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=" alt="" /></a></p>
+
+<div align="center">
+    <h1>GESTION-STG-SUPMTI</h1>
+    <p><em>Empowering Connections for Seamless Learning Journeys</em></p>
+    <img alt="last-commit" src="https://img.shields.io/github/last-commit/AYMANE777/Gestion-Stg-SupMti?style=flat&amp;logo=git&amp;logoColor=white&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
+    <img alt="repo-top-language" src="https://img.shields.io/github/languages/top/AYMANE777/Gestion-Stg-SupMti?style=flat&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
+    <img alt="repo-language-count" src="https://img.shields.io/github/languages/count/AYMANE777/Gestion-Stg-SupMti?style=flat&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
+    <p><em>Built with the tools and technologies:</em></p>
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&amp;logo=Markdown&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&amp;logo=PHP&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
+
+</div>
+<h2>Overview</h2>
+<p>Gestion-Stg-SupMti is a comprehensive developer tool designed to streamline user management and enhance communication within educational and training environments.</p>
+<p><strong>Why Gestion-Stg-SupMti?</strong></p>
+<p>This project aims to simplify user interactions and data management while ensuring security and efficiency. The core features include:</p>
+
+<ul class="list-disc pl-4 my-0">
+    <li class="my-0">🔒 <strong>User Authentication:</strong> Facilitates secure access based on user roles, enhancing security and user experience.</li>
+    <li class="my-0">📊 <strong>Dashboard Overview:</strong> Provides a centralized view of key metrics and activities for different user roles, improving management efficiency.</li>
+    <li class="my-0">💬 <strong>Messaging System:</strong> Enables seamless communication between users, fostering collaboration and engagement.</li>
+    <li class="my-0">🛠️ <strong>Reclamation Management:</strong> Allows users to report and track issues, enhancing support and responsiveness.</li>
+    <li class="my-0">👤 <strong>Profile Management:</strong> Empowers users to manage their personal information securely, ensuring data integrity.</li>
+    <li class="my-0">📈 <strong>Dynamic Content Display:</strong> Retrieves and presents real-time data, improving user interaction and experience.</li>
+    </ul>
